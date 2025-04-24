@@ -1,4 +1,5 @@
 # td_spawnVeh
+Système de spawn de véhicule afin de rendre celui-ci persistant jusqu'au reboot. Fini les despawn du véhicule joueur.
 
 # Exemple d'utilisation 
 
